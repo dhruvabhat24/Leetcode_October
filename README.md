@@ -3,16 +3,7 @@
 
 ## 1. Monotonic Array
 - An array is monotonic if it is either monotone increasing or monotone decreasing.
-- An array nums is monotone increasing if for all i <= j, nums[i] <= nums[j]. An array nums is monotone decreasing if for all i <= j, nums[i] >= nums[j].
-- Given an integer array nums, write a function to determine if the given array is monotonic.
-- Example 1
-- Input: nums = [1,2,2,3]
-- Output: true
-
-- Example 2
-- Input: nums = [6,5,4,4]
-- Output: true
-
-- Constraints
-- 1 <= nums.length <= 10^5
-- -10^5 <= nums[i] <= 10^5
+- An array nums is monotone increasing if for all i <= j, nums[i] <= nums[j]. An array nums is monotone decreasing if for all i <= j, nums[i] >= nums[j]. Given an integer array nums, write a function to determine if the given array is monotonic.
+## 2. 132 Pattern
+- Given an array of n integers nums, a 132 pattern is a subsequence of three integers nums[i], nums[j] and nums[k] such that i < j < k and nums[i] < nums[k] < nums[j].
+Return true if there is a 132 pattern in nums, otherwise, return false.
