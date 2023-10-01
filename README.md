@@ -7,3 +7,8 @@
 ## 2. 132 Pattern
 - Given an array of n integers nums, a 132 pattern is a subsequence of three integers nums[i], nums[j] and nums[k] such that i < j < k and nums[i] < nums[k] < nums[j].
 Return true if there is a 132 pattern in nums, otherwise, return false.
+## 3. Reverse words in a given string
+- Given a string s, reverse the order of characters in each word within a sentence while still preserving whitespace and initial word order.
+- Example 1:
+- Input: s = "Let's take LeetCode contest"
+- Output: "s'teL ekat edoCteeL tsetnoc"
