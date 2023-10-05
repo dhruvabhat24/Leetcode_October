@@ -6,3 +6,4 @@
 ## 4. Remove Colored Pieces if Both Neighbors are the Same Color
 ## 5. Number of good pairs
 ## 6. Design Hash Map 
+## 7. Majority Element 2
