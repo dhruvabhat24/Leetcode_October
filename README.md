@@ -7,3 +7,4 @@
 ## 5. Number of good pairs
 ## 6. Design Hash Map 
 ## 7. Majority Element 2
+## 8. Integer Break
