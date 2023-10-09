@@ -10,3 +10,4 @@
 ## 8. Integer Break
 ## 9. Build Array Where You Can Find The Maximum Exactly K Comparisons
 ## 10. Max Dot Product of Two Subsequences
+## 11. First and last position of element in sorted array
