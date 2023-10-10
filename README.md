@@ -11,3 +11,4 @@
 ## 9. Build Array Where You Can Find The Maximum Exactly K Comparisons
 ## 10. Max Dot Product of Two Subsequences
 ## 11. First and last position of element in sorted array
+## 12 Minimum Number of Operations to Make Array Continuous
