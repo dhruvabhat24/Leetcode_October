@@ -17,3 +17,4 @@
 ## 15. Minimum cost climbing stairs
 ## 16. Paining the Walls
 ## 17. Number of Ways to Stay in the Same Place After Some Steps
+## 18. Pascal's Triangle II
