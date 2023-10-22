@@ -21,5 +21,5 @@
 ## 19. Validate Binary Tree Nodes
 ## 20. Parallel Courses III
 ## 21. Backspace String Compare
-## 21. Flatten Nested List Iterator
-## 22.  Maximum Score of a Good Subarray
+## 22. Flatten Nested List Iterator
+## 23.  Maximum Score of a Good Subarray
