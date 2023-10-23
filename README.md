@@ -23,3 +23,4 @@
 ## 21. Backspace String Compare
 ## 22. Flatten Nested List Iterator
 ## 23.  Maximum Score of a Good Subarray
+## 24. Power of Four
