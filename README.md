@@ -1,4 +1,4 @@
-# Leet-code-practice
+# Leetcode October Questions
 # Daily one question solve from leetcode
 ## 1. Monotonic Array
 ## 2. 132 Pattern
