@@ -25,3 +25,4 @@
 ## 23.  Maximum Score of a Good Subarray
 ## 24. Power of Four
 ## 25. Find Largest Value in Each Tree Row
+## 26. K-th Symbol in Grammar
