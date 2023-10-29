@@ -29,3 +29,4 @@
 ## 27. Binary Trees With Factors
 ## 28. Longest Palindromic Substring
 ## 29. Count Vowels Permutation
+## 30. Poor Pigs
