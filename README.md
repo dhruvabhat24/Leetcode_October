@@ -30,3 +30,4 @@
 ## 28. Longest Palindromic Substring
 ## 29. Count Vowels Permutation
 ## 30. Poor Pigs
+## 31. Sort Integers by The Number of 1 Bits
